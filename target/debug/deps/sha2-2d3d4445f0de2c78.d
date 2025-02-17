@@ -1,0 +1,13 @@
+/mnt/c/Users/danie/Documents/GitHub/teste/target/debug/deps/libsha2-2d3d4445f0de2c78.rmeta: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/x86.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/x86.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/target/debug/deps/sha2-2d3d4445f0de2c78.d: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/x86.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/x86.rs
+
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/x86.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/x86.rs:

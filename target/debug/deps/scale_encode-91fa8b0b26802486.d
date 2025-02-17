@@ -1,0 +1,10 @@
+/mnt/c/Users/danie/Documents/GitHub/teste/target/debug/deps/libscale_encode-91fa8b0b26802486.rmeta: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/composite.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/variant.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/error/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/error/context.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/target/debug/deps/scale_encode-91fa8b0b26802486.d: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/composite.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/variant.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/error/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/error/context.rs
+
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/lib.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/mod.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/composite.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/impls/variant.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/error/mod.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scale-encode-0.5.0/src/error/context.rs:
